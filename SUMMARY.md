@@ -16,10 +16,12 @@
     * [可追溯](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-zhui-su.md)
     * [可精确结算](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan.md)
     * [以个人为中心](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan/yi-ge-ren-wei-zhong-xin.md)
+  * [如何使用电子病历](dian-zi-bing-li/ru-he-shi-yong-dian-zi-bing-li.md)
 * [预约](yu-yue.md)
   * [病人需要有法定监护人吗](yu-yue/bing-ren-xu-yao-you-fa-ding-jian-hu-ren-ma.md)
   * [宝健康医疗咨询服务流程](yu-yue/bao-jian-kang-zi-xun-fu-wu-liu-cheng.md)
   * [为什么需要预约](yu-yue/wei-shi-yao-xu-yao-yu-yue.md)
+  * [可以为别人预约吗](yu-yue/ke-yi-wei-bie-ren-yu-yue-ma.md)
   * [怎么预约](yu-yue/zen-yao-yu-yue.md)
   * [预约前我需要做什么准备](yu-yue/yu-yue-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
   * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
@@ -27,7 +29,15 @@
   * [多久能得到响应](yu-yue/duo-jiu-neng-de-dao-xiang-ying.md)
   * [费用如何](yu-yue/fei-yong-ru-he.md)
   * [我可以预约指定的医生吗](yu-yue/wo-ke-yi-yu-yue-zhi-ding-de-yi-sheng-ma.md)
+  * [能否预约到同一个医生](yu-yue/neng-fou-yu-yue-dao-tong-yi-ge-yi-sheng.md)
+  * [如果未能准时赴约时怎么办](yu-yue/ru-guo-hui-mian-shi-chi-dao-zen-yao-ban.md)
   * [如果发生医疗事故怎么办](yu-yue/ru-guo-fa-sheng-yi-liao-shi-gu-zen-yao-ban.md)
-  * [如果对服务不满意怎么办](yu-yue/ru-guo-dui-fu-wu-bu-man-yi-zen-yao-ban-ff1f.md)
+  * [为什么需要互相评论](yu-yue/wei-shi-yao-xu-yao-hu-xiang-ping-lun.md)
+  * 为什么需要付定金
+  * 定金可以退吗
+  * 预约可以取消吗
+  * 加入会员有什么好处
+  * 如何安排复诊
+  * 我需要挂号吗
 * [会员支付](hui-yuan-zhi-fu.md)
 
