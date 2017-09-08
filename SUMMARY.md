@@ -20,12 +20,13 @@
   * [病人需要有法定监护人吗](yu-yue/bing-ren-xu-yao-you-fa-ding-jian-hu-ren-ma.md)
   * [宝健康医疗咨询服务流程](yu-yue/bao-jian-kang-zi-xun-fu-wu-liu-cheng.md)
   * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
-  * 与医生会面前我需要做什么准备
   * [为什么需要预约](yu-yue/wei-shi-yao-xu-yao-yu-yue.md)
   * [怎么预约](yu-yue/zen-yao-yu-yue.md)
+  * [预约前我需要做什么准备](yu-yue/yu-yue-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
+  * [与医生会面前我需要做什么准备](yu-yue/yu-yi-sheng-hui-mian-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
   * [多久能得到响应](yu-yue/duo-jiu-neng-de-dao-xiang-ying.md)
   * [费用如何](yu-yue/fei-yong-ru-he.md)
   * 我可以预约指定的医生吗
-  * 我可以预约到同一名医生吗
+  * [预约前我需要做什么准备](yu-yue/yu-yue-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
 * [会员支付](hui-yuan-zhi-fu.md)
 
