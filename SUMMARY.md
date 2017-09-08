@@ -4,8 +4,22 @@
 * [关于宝健康](chapter1.md)
   * [什么是宝健康](chapter1/bao-jian-kang.md)
   * [宝健康在哪些地方提供服务](chapter1/bao-jian-kang-zai-na-xie-di-fang-ti-gong-fu-wu.md)
-  * 怎样联系宝健康
-* [预约](yu-yue.md)
+  * [在哪里可以找到我们](chapter1/zai-na-li-ke-yi-zhao-dao-wo-men.md)
+  * [服务时间](chapter1/fu-wu-shi-jian.md)
+  * [宝健康的由来](chapter1/bao-jian-kang-de-you-lai.md)
+  * [怎样联系宝健康](chapter1/zen-yang-lian-xi-bao-jian-kang.md)
 * [电子病历](dian-zi-bing-li.md)
+  * [为什么需要电子病历](dian-zi-bing-li/wei-shi-yao-xu-yao-ge-ren-dian-zi-bing-li.md)
+  * [宝健康电子病历与其它病历有何不同](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian.md)
+    * 保密性
+    * [便携性](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/bian-xi-xing.md)
+    * [可追溯](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-zhui-su.md)
+    * [可精确结算](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan.md)
+    * [以个人为中心](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan/yi-ge-ren-wei-zhong-xin.md)
+* [预约](yu-yue.md)
+  * [病人需要有法定监护人吗](yu-yue/bing-ren-xu-yao-you-fa-ding-jian-hu-ren-ma.md)
+  * [宝健康医疗咨询服务流程](yu-yue/bao-jian-kang-zi-xun-fu-wu-liu-cheng.md)
+  * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
+  * 与医生会面前我需要做什么准备
 * [会员支付](hui-yuan-zhi-fu.md)
 
