@@ -21,5 +21,9 @@
   * [宝健康医疗咨询服务流程](yu-yue/bao-jian-kang-zi-xun-fu-wu-liu-cheng.md)
   * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
   * 与医生会面前我需要做什么准备
+  * [为什么需要预约](yu-yue/wei-shi-yao-xu-yao-yu-yue.md)
+  * 怎么预约
+  * 多久能得到响应
+  * [费用如何](yu-yue/fei-yong-ru-he.md)
 * [会员支付](hui-yuan-zhi-fu.md)
 
