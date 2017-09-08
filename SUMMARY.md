@@ -57,9 +57,9 @@
   * [结算周期](hui-yuan-zhi-fu/jie-suan-zhou-qi.md)
   * [哪些项目可以结算](hui-yuan-zhi-fu/na-xie-xiang-mu-ke-yi-jie-suan.md)
   * [结算流程](hui-yuan-zhi-fu/jie-suan-liu-cheng.md)
-  * 结算需要哪些材料
-  * 结算支付方式
-  * 结算与保险有何不同
+  * [结算需要哪些材料](hui-yuan-zhi-fu/jie-suan-xu-yao-na-xie-cai-liao.md)
+  * [结算支付方式](hui-yuan-zhi-fu/jie-suan-zhi-fu-fang-shi.md)
+  * [结算与保险有何不同](hui-yuan-zhi-fu/jie-suan-yu-bao-xian-you-he-bu-tong.md)
 * [服务](fu-wu.md)
   * 需要急诊怎么办
 
