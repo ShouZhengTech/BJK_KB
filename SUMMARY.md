@@ -24,8 +24,8 @@
   * [可以为别人预约吗](yu-yue/ke-yi-wei-bie-ren-yu-yue-ma.md)
   * [怎么预约](yu-yue/zen-yao-yu-yue.md)
   * [预约前我需要做什么准备](yu-yue/yu-yue-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
-  * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
   * [与医生会面前我需要做什么准备](yu-yue/yu-yi-sheng-hui-mian-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
+  * [我能预约到什么样的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
   * [多久能得到响应](yu-yue/duo-jiu-neng-de-dao-xiang-ying.md)
   * [费用如何](yu-yue/fei-yong-ru-he.md)
   * [我可以预约指定的医生吗](yu-yue/wo-ke-yi-yu-yue-zhi-ding-de-yi-sheng-ma.md)
@@ -39,5 +39,15 @@
   * 加入会员有什么好处
   * 如何安排复诊
   * 我需要挂号吗
+  * 是否提供上门咨询服务
+  * 为何可以不用去医院咨询
+  * 找不到医生怎么办
+  * 所有的病情都可以预约吗
+  * 为什么需要扫码确认医生
 * [会员支付](hui-yuan-zhi-fu.md)
+  * [会员有何特权](hui-yuan-zhi-fu/hui-yuan-te-quan.md)
+    * [私人专属医生](hui-yuan-zhi-fu/hui-yuan-te-quan/ke-yi-yu-yue-tong-yi-ge-yi-sheng.md)
+    * 预约折扣
+    * [享有医疗结算服务](hui-yuan-zhi-fu/hui-yuan-te-quan/geng-gao-de-bao-xiao-bi-li.md)
+    * 会员线下活动
 
