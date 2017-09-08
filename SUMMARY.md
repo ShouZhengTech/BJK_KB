@@ -22,8 +22,10 @@
   * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
   * 与医生会面前我需要做什么准备
   * [为什么需要预约](yu-yue/wei-shi-yao-xu-yao-yu-yue.md)
-  * 怎么预约
-  * 多久能得到响应
+  * [怎么预约](yu-yue/zen-yao-yu-yue.md)
+  * [多久能得到响应](yu-yue/duo-jiu-neng-de-dao-xiang-ying.md)
   * [费用如何](yu-yue/fei-yong-ru-he.md)
+  * 我可以预约指定的医生吗
+  * 我可以预约到同一名医生吗
 * [会员支付](hui-yuan-zhi-fu.md)
 
