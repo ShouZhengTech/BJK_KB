@@ -11,23 +11,55 @@
 * [电子病历](dian-zi-bing-li.md)
   * [为什么需要电子病历](dian-zi-bing-li/wei-shi-yao-xu-yao-ge-ren-dian-zi-bing-li.md)
   * [宝健康电子病历与其它病历有何不同](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian.md)
-    * 保密性
+    * [保密性](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/bao-mi-xing.md)
     * [便携性](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/bian-xi-xing.md)
     * [可追溯](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-zhui-su.md)
     * [可精确结算](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan.md)
     * [以个人为中心](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan/yi-ge-ren-wei-zhong-xin.md)
+  * [如何使用电子病历](dian-zi-bing-li/ru-he-shi-yong-dian-zi-bing-li.md)
 * [预约](yu-yue.md)
   * [病人需要有法定监护人吗](yu-yue/bing-ren-xu-yao-you-fa-ding-jian-hu-ren-ma.md)
   * [宝健康医疗咨询服务流程](yu-yue/bao-jian-kang-zi-xun-fu-wu-liu-cheng.md)
   * [为什么需要预约](yu-yue/wei-shi-yao-xu-yao-yu-yue.md)
+  * [可以为别人预约吗](yu-yue/ke-yi-wei-bie-ren-yu-yue-ma.md)
   * [怎么预约](yu-yue/zen-yao-yu-yue.md)
   * [预约前我需要做什么准备](yu-yue/yu-yue-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
-  * [如何预约到合适的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
   * [与医生会面前我需要做什么准备](yu-yue/yu-yi-sheng-hui-mian-qian-wo-xu-yao-zuo-shi-yao-zhun-bei.md)
+  * [我能预约到什么样的医生](yu-yue/ru-he-yu-yue-dao-he-shi-de-yi-sheng.md)
   * [多久能得到响应](yu-yue/duo-jiu-neng-de-dao-xiang-ying.md)
   * [费用如何](yu-yue/fei-yong-ru-he.md)
   * [我可以预约指定的医生吗](yu-yue/wo-ke-yi-yu-yue-zhi-ding-de-yi-sheng-ma.md)
+  * [能否预约到同一个医生](yu-yue/neng-fou-yu-yue-dao-tong-yi-ge-yi-sheng.md)
+  * [如果未能准时赴约时怎么办](yu-yue/ru-guo-hui-mian-shi-chi-dao-zen-yao-ban.md)
   * [如果发生医疗事故怎么办](yu-yue/ru-guo-fa-sheng-yi-liao-shi-gu-zen-yao-ban.md)
-  * [如果对服务不满意怎么办](yu-yue/ru-guo-dui-fu-wu-bu-man-yi-zen-yao-ban-ff1f.md)
+  * [为什么需要互相评论](yu-yue/wei-shi-yao-xu-yao-hu-xiang-ping-lun.md)
+  * [为什么需要付定金](yu-yue/wei-shi-yao-xu-yao-fu-ding-jin.md)
+  * 定金可以退吗
+  * 预约可以取消吗
+  * 加入会员有什么好处
+  * 如何安排复诊
+  * [我需要挂号吗](yu-yue/wo-xu-yao-gua-hao-ma.md)
+  * 是否提供上门咨询服务
+  * 为何可以不用去医院咨询
+  * [找不到医生怎么办](yu-yue/zhao-bu-dao-yi-sheng-zen-yao-ban.md)
+  * 所有的病情都可以预约吗
+  * 为什么需要扫码确认医生
+  * [电话预约与见面预约有何不同](yu-yue/dian-hua-yu-yue-yu-jian-mian-yu-yue-you-he-bu-tong.md)
 * [会员支付](hui-yuan-zhi-fu.md)
+  * [会员结算是什么](hui-yuan-zhi-fu/hui-yuan-jie-suan-shi-shi-yao.md)
+  * [会员有何特权](hui-yuan-zhi-fu/hui-yuan-te-quan.md)
+    * [私人专属医生](hui-yuan-zhi-fu/hui-yuan-te-quan/ke-yi-yu-yue-tong-yi-ge-yi-sheng.md)
+    * 预约折扣
+    * [享有医疗结算服务](hui-yuan-zhi-fu/hui-yuan-te-quan/geng-gao-de-bao-xiao-bi-li.md)
+    * 会员线下活动
+  * [病历凭据丢失怎么办](hui-yuan-zhi-fu/bing-li-ping-ju-diu-shi-zen-yao-ban.md)
+  * [结算比例多少](hui-yuan-zhi-fu/jie-suan-bi-li-duo-shao.md)
+  * [结算周期](hui-yuan-zhi-fu/jie-suan-zhou-qi.md)
+  * [哪些项目可以结算](hui-yuan-zhi-fu/na-xie-xiang-mu-ke-yi-jie-suan.md)
+  * [结算流程](hui-yuan-zhi-fu/jie-suan-liu-cheng.md)
+  * [结算需要哪些材料](hui-yuan-zhi-fu/jie-suan-xu-yao-na-xie-cai-liao.md)
+  * [结算支付方式](hui-yuan-zhi-fu/jie-suan-zhi-fu-fang-shi.md)
+  * [结算与保险有何不同](hui-yuan-zhi-fu/jie-suan-yu-bao-xian-you-he-bu-tong.md)
+* [服务](fu-wu.md)
+  * [需要急诊怎么办](fu-wu/xu-yao-ji-zhen-zen-yao-ban.md)
 
