@@ -44,10 +44,22 @@
   * 找不到医生怎么办
   * 所有的病情都可以预约吗
   * 为什么需要扫码确认医生
+  * 电话预约与见面预约有何不同
 * [会员支付](hui-yuan-zhi-fu.md)
+  * [会员结算是什么](hui-yuan-zhi-fu/hui-yuan-jie-suan-shi-shi-yao.md)
   * [会员有何特权](hui-yuan-zhi-fu/hui-yuan-te-quan.md)
     * [私人专属医生](hui-yuan-zhi-fu/hui-yuan-te-quan/ke-yi-yu-yue-tong-yi-ge-yi-sheng.md)
     * 预约折扣
     * [享有医疗结算服务](hui-yuan-zhi-fu/hui-yuan-te-quan/geng-gao-de-bao-xiao-bi-li.md)
     * 会员线下活动
+  * [病历凭据丢失怎么办](hui-yuan-zhi-fu/bing-li-ping-ju-diu-shi-zen-yao-ban.md)
+  * [结算比例多少](hui-yuan-zhi-fu/jie-suan-bi-li-duo-shao.md)
+  * [结算周期](hui-yuan-zhi-fu/jie-suan-zhou-qi.md)
+  * [哪些项目可以结算](hui-yuan-zhi-fu/na-xie-xiang-mu-ke-yi-jie-suan.md)
+  * [结算流程](hui-yuan-zhi-fu/jie-suan-liu-cheng.md)
+  * 结算需要哪些材料
+  * 结算支付方式
+  * 结算与保险有何不同
+* [服务](fu-wu.md)
+  * 需要急诊怎么办
 
