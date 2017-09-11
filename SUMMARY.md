@@ -34,15 +34,15 @@
   * [如果发生医疗事故怎么办](yu-yue/ru-guo-fa-sheng-yi-liao-shi-gu-zen-yao-ban.md)
   * [为什么需要互相评论](yu-yue/wei-shi-yao-xu-yao-hu-xiang-ping-lun.md)
   * [为什么需要付定金](yu-yue/wei-shi-yao-xu-yao-fu-ding-jin.md)
-  * 定金可以退吗
-  * 预约可以取消吗
-  * 加入会员有什么好处
-  * 如何安排复诊
+  * [定金可以退吗](yu-yue/ding-jin-ke-yi-tui-ma.md)
+  * [预约可以取消吗](yu-yue/yu-yue-ke-yi-qu-xiao-ma.md)
+  * [加入会员有什么好处](yu-yue/jia-ru-hui-yuan-you-shi-yao-hao-chu.md)
+  * [如何安排复诊](yu-yue/ru-he-an-pai-fu-zhen.md)
   * [我需要挂号吗](yu-yue/wo-xu-yao-gua-hao-ma.md)
-  * 是否提供上门咨询服务
-  * 为何可以不用去医院咨询
+  * [是否提供上门咨询服务](yu-yue/shi-fou-ti-gong-shang-men-zi-xun-fu-wu.md)
+  * [为何可以不用去医院咨询](yu-yue/wei-he-ke-yi-bu-yong-qu-yi-yuan-zi-xun.md)
   * [找不到医生怎么办](yu-yue/zhao-bu-dao-yi-sheng-zen-yao-ban.md)
-  * 所有的病情都可以预约吗
+  * [所有的病情都可以预约吗](yu-yue/suo-you-de-bing-qing-du-ke-yi-yu-yue-ma.md)
   * 为什么需要扫码确认医生
   * [电话预约与见面预约有何不同](yu-yue/dian-hua-yu-yue-yu-jian-mian-yu-yue-you-he-bu-tong.md)
 * [会员支付](hui-yuan-zhi-fu.md)
