@@ -38,13 +38,13 @@
   * 预约可以取消吗
   * 加入会员有什么好处
   * 如何安排复诊
-  * 我需要挂号吗
+  * [我需要挂号吗](yu-yue/wo-xu-yao-gua-hao-ma.md)
   * 是否提供上门咨询服务
   * 为何可以不用去医院咨询
-  * 找不到医生怎么办
+  * [找不到医生怎么办](yu-yue/zhao-bu-dao-yi-sheng-zen-yao-ban.md)
   * 所有的病情都可以预约吗
   * 为什么需要扫码确认医生
-  * 电话预约与见面预约有何不同
+  * [电话预约与见面预约有何不同](yu-yue/dian-hua-yu-yue-yu-jian-mian-yu-yue-you-he-bu-tong.md)
 * [会员支付](hui-yuan-zhi-fu.md)
   * [会员结算是什么](hui-yuan-zhi-fu/hui-yuan-jie-suan-shi-shi-yao.md)
   * [会员有何特权](hui-yuan-zhi-fu/hui-yuan-te-quan.md)
