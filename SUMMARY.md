@@ -43,7 +43,7 @@
   * [为何可以不用去医院咨询](yu-yue/wei-he-ke-yi-bu-yong-qu-yi-yuan-zi-xun.md)
   * [找不到医生怎么办](yu-yue/zhao-bu-dao-yi-sheng-zen-yao-ban.md)
   * [所有的病情都可以预约吗](yu-yue/suo-you-de-bing-qing-du-ke-yi-yu-yue-ma.md)
-  * 为什么需要扫码确认医生
+  * [为什么需要扫码确认医生](yu-yue/wei-shi-yao-xu-yao-sao-ma-que-ren-yi-sheng.md)
   * [电话预约与见面预约有何不同](yu-yue/dian-hua-yu-yue-yu-jian-mian-yu-yue-you-he-bu-tong.md)
 * [会员支付](hui-yuan-zhi-fu.md)
   * [会员结算是什么](hui-yuan-zhi-fu/hui-yuan-jie-suan-shi-shi-yao.md)
