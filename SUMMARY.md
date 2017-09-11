@@ -11,7 +11,7 @@
 * [电子病历](dian-zi-bing-li.md)
   * [为什么需要电子病历](dian-zi-bing-li/wei-shi-yao-xu-yao-ge-ren-dian-zi-bing-li.md)
   * [宝健康电子病历与其它病历有何不同](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian.md)
-    * 保密性
+    * [保密性](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/bao-mi-xing.md)
     * [便携性](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/bian-xi-xing.md)
     * [可追溯](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-zhui-su.md)
     * [可精确结算](dian-zi-bing-li/bao-jian-kang-dian-zi-bing-li-de-te-dian/ke-jing-que-jie-suan.md)
@@ -61,5 +61,5 @@
   * [结算支付方式](hui-yuan-zhi-fu/jie-suan-zhi-fu-fang-shi.md)
   * [结算与保险有何不同](hui-yuan-zhi-fu/jie-suan-yu-bao-xian-you-he-bu-tong.md)
 * [服务](fu-wu.md)
-  * 需要急诊怎么办
+  * [需要急诊怎么办](fu-wu/xu-yao-ji-zhen-zen-yao-ban.md)
 
