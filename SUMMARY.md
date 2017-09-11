@@ -33,7 +33,7 @@
   * [如果未能准时赴约时怎么办](yu-yue/ru-guo-hui-mian-shi-chi-dao-zen-yao-ban.md)
   * [如果发生医疗事故怎么办](yu-yue/ru-guo-fa-sheng-yi-liao-shi-gu-zen-yao-ban.md)
   * [为什么需要互相评论](yu-yue/wei-shi-yao-xu-yao-hu-xiang-ping-lun.md)
-  * 为什么需要付定金
+  * [为什么需要付定金](yu-yue/wei-shi-yao-xu-yao-fu-ding-jin.md)
   * 定金可以退吗
   * 预约可以取消吗
   * 加入会员有什么好处
